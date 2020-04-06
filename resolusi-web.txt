@@ -3,4 +3,4 @@ resolusi-web
  - layanan page
  - informasi page
  - lanjutan membuat halaman baru
- - kolaborasi dengan back-end
+ 
